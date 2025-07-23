@@ -1,3 +1,3 @@
 # Rectangle Area Calculator
 
-A simple rectangle area calclator
+A simple rectangle area calclator.
